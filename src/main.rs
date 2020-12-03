@@ -12,7 +12,7 @@ use hal::sercom;
 use hal::prelude::*;
 use hal::gpio;
 use hal::pad::PadPin;
-use arduino_nano33iot::time::Hertz;
+use hal::time::Hertz;
 
 pub fn uart2<F: Into<Hertz>>(
     clocks: &mut GenericClockController,
