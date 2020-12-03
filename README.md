@@ -6,3 +6,4 @@
 
 > One is standard SERCOM5 on PB22(TX)/PB23(RX) 9600 bauds.
 > Other is SERCOM2 on PA10(TX)/PA11(RX) 19200 bauds.
+
